@@ -30,4 +30,4 @@ endif()
 
 message(STATUS "The cmake_cxx_flags is: ${CMAKE_CXX_FLAGS}")
 
-add_subdirectory(${PROJECT_SOURCE_DIR}/test)
+add_subdirectory(test)
